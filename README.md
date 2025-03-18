@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schaff-sys
 - 👀 I’m interested in learning about data analysis, AI and cybersecurity
-- - 🌱 I’m currently learning the basics of data analysis software and python coding for data analysis
+- 🌱 I’m currently learning the basics of data analysis software and python coding for data analysis
 - 💞️ I’m looking to collaborate on sports data analytics projects 
 - 📫 How to reach me email me (link in profile)
 - 😄 Pronouns: He/Him
